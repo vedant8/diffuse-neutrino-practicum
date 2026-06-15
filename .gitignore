@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+data/hese_toy_simulation.json
+data/hese_toy_data.json
+data/toy_data_E-2.npy
